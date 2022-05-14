@@ -1,5 +1,6 @@
 # M3_Wiper_Control_System
 # Badges
+- [![Build CI - Linux](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml)
 - [![Analysis](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml)
 - [![CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml)
 - [![Valgrind](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml)
