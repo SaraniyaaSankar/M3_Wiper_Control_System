@@ -1,14 +1,25 @@
 # M3_Wiper_Control_System
 # Badges
-- [![cppcheck-action](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
-- [![C/C++ CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
-- [![Build CI - Windows](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml)
-- [![Build CI - Linux](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml)
-- [![Analysis](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml)
-- [![CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml)
-- [![Valgrind](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml)
-- [![Contribution Check - Git Inspector](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/git_inspector.yml)
-- [![Makefile](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Makefile.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Makefile.yml)
+- unit test
+[![Unit testing](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml)
+- cpp check
+[![cppcheck-action](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
+- Build C/C++
+[![C/C++ CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
+- Build windows
+[![Build CI - Windows](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml)
+- Build Linux
+[![Build CI - Linux](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml)
+- Analysis
+[![Analysis](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Analysis.yml)
+- Build
+[![CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/main.yml)
+- Valgrind
+[![Valgrind](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/valgrind.yml)
+- Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/git_inspector.yml)
+- Makefile
+[![Makefile](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Makefile.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Makefile.yml)
 # Hardware requirements
 - STM32F407 Board
 # Required software tools
