@@ -1,5 +1,6 @@
 # M3_Wiper_Control_System
 # Badges
+- [![cppcheck-action](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
 - [![C/C++ CI](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
 - [![Build CI - Windows](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml)
 - [![Build CI - Linux](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/Build_Linux.yml)
