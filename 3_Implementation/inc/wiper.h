@@ -16,6 +16,4 @@ void clockwise_motion(void);
 
 void anticlockwise_motion(void);
 
-void Reset(void);
-
 #endif 
