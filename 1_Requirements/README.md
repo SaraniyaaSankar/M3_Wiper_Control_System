@@ -38,9 +38,9 @@ This wiper control system application is researched from various sources like go
 - The position of the wiper is indicated by the LED, which returns to its original position after cleaning the windsheet of the vehicle.
 ## FEATURES
 - Lock the car when button is pressed once and hold for 2 secs.
-- Wiper on and it moves in clock wise direction when the button is pressed twice.
-- Wiper off and it moves in anti clock wise direction when the button is pressed thrice.
-- Unlock the car when button is pressed for times and hold for 2 secs.
+- Unlock the car when button is pressed for twice and hold for 2 secs.
+- Wiper on and it moves in clock wise direction when the button is pressed thrice.
+- Wiper off and it moves in anti clock wise direction when the button is pressed four times.
 ## SWOT ANALYSIS:
 ## STRENGTH
 - Clear visibility
@@ -66,6 +66,6 @@ This wiper control system application is researched from various sources like go
 | RID |	DESCRIPTION | STATUS |
 | --- | --- | --- |
 | LLR1 |	Press button once and hold for 2 secs | IMPLEMENTED |
-| LLR2 |	Press button twice ON blue, green, orange | IMPLEMENTED |
-| LLR3 |	Press button thrice OFF blue, green, orange | IMPLEMENTED |
-| LLR4 |	Press button four timesand hold for 2 secs | IMPLEMENTED |
+| LLR2 |	Press button twice and hold for 2 secs| IMPLEMENTED |
+| LLR3 |	Press button thrice ON blue, green, orange | IMPLEMENTED |
+| LLR4 |	Press button four times OFF blue, green, orange  | IMPLEMENTED |
