@@ -31,12 +31,21 @@ Folder             | Description
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_TestPlanAndOutput`      | Documents with test plans and output
+`4_TestCases`      | Documents with test plans
 `5_Report`  | Document consisting of all details
-`6_ImagesAndVideo` | Document holding output images and video
+`6_Output` | Document holding output images and video
 # Challenges Faced and How was it overcomed
 - Generation of makefile: To overcome this problem research on makefiles was done
 - Generation of startup files: To overcome this startup resources are utilized 
 # GitHub Actions
-- Build using CI
-- Dynamic code analysis using Valgrind
+* Build using Make for CI
+* Unit tests with Cunit
+* Static code analysis using cppcheck
+* Dynamic Code analysis using Valgrind
+# Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
+4. [git inspector](https://github.com/ejwa/gitinspector.git)
+5. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
