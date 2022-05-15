@@ -1,6 +1,7 @@
 # M3_Wiper_Control_System
 # Badges
 - unit test
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a54c011fc3d425a873da822f10dad16)](https://app.codacy.com/gh/SaraniyaaSankar/M3_Wiper_Control_System?utm_source=github.com&utm_medium=referral&utm_content=SaraniyaaSankar/M3_Wiper_Control_System&utm_campaign=Badge_Grade_Settings)
 [![Unit testing](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml)
 - cpp check
 [![cppcheck-action](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
