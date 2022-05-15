@@ -2,6 +2,9 @@
 # Badges
 - codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/56fd23b98b3a4c608c68b0205ecdf215)](https://www.codacy.com/gh/SaraniyaaSankar/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SaraniyaaSankar/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+- codiga
+![Codiga Badge](https://api.codiga.io/project/33521/score/svg)
+![Codiga Badge](https://api.codiga.io/project/33521/status/svg)
 - unit test
 [![Unit testing](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/SaraniyaaSankar/M3_Wiper_Control_System/actions/workflows/unit-test.yml)
 - cpp check
@@ -44,6 +47,9 @@ Folder             | Description
 * Unit tests with Cunit
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
+# Integrated Tools to GitHub
+* [Codacy](https://www.codacy.com/)
+* [Codiga](https://www.codiga.io/)
 # Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
